@@ -1,4 +1,4 @@
-![imagen logo](_ (12).jpeg)
+![imagen logo](_(12).jpeg)
 
 <h1 align="left">Hola!</h1>
 
