@@ -1,4 +1,8 @@
-![imagen logo](_(12).jpeg)
+<div align="center">
+  <img height="150" src="[https://pin.it/4n9OwE8e9](https://i.pinimg.com/736x/90/f5/2f/90f52f42ad3c70e989588f839197f778.jpg)"  />
+</div>
+
+
 
 <h1 align="left">Hola!</h1>
 
