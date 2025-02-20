@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Jesús Peraza y de Colombia.</p>
+<p align="left">Mi nombre es Jesús Peraza y soy de Colombia.</p>
 
 ###
 
