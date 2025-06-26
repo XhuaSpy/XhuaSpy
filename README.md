@@ -1,15 +1,12 @@
-<img src="img/as<sf<.jpeg" alt="header" width=100% />
+<img src="https://github.com/XhuaSpy/XhuaSpy/blob/main/img/img_1.jpeg" alt="header" width=100% />
 
 <h1 align="left">☾∘ ⋅  𝔥𝔬𝔩𝔦 𝔪𝔦 𝔫𝔬𝔪𝔟𝔯𝔢 𝔢𝔰 𝔍𝔢𝔰𝔲𝔰 ⋅ ∘☽ </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=1000&lines=𝖀𝖓+𝖆𝖕𝖆𝖘𝖎𝖔𝖓𝖆𝖉𝖔+𝖕𝖗𝖔𝖌𝖗𝖆𝖒𝖆𝖉𝖔𝖗+𝖇𝖆𝖈𝖐𝖊𝖓𝖉+𝖉𝖊+𝕮𝖔𝖑𝖔𝖒𝖇𝖎𝖆...+☠️;𝖘𝖚𝖋𝖗𝖎𝖊𝖓𝖉𝖔+𝖊𝖓+𝖊𝖑+𝖎𝖓𝖋𝖎𝖊𝖗𝖓𝖔+𝖑𝖑𝖆𝖒𝖆𝖉𝖔+𝖀𝖓𝖎𝖛𝖊𝖗𝖘𝖎𝖉𝖆𝖉" alt="Typing SVG" />
-</h3>
 <p>
   Puro codigo decadente hay en ésta cuenta. Me gusta crear y aprender haciendo, así es como trato de adquirir mis conocimientos tanto de manera autodidacta como por la universidad. Soy programador backend pero en especial me gusta describirme como un diseñador de soluciones. Estoy aprendiendo sobre java con su framework spring, al mismo tiempo estoy trabajando en go en resolución de problema de mas bajo nivel (o lo que el lenguaje permite en éste entorno).<br>Estoy abierto a nuevas oportinidades de aprendisaje y de colaboración con todo tipo de proyectos.
 </p>
 
-<img src="img/_ (1).jpeg" alt="Angel oscuro" style="max-width: 40%; height: auto;" align="right" />
+<img src="https://github.com/XhuaSpy/XhuaSpy/blob/main/img/img_2.jpeg" alt="Angel oscuro" width=30% style="max-width: 25%; height: auto;" align="right" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XhuaSpy&label=Profile%20views&color=0e75b6&style=flat" alt="XhuaSpy" /> </p>
@@ -44,16 +41,10 @@
 
 ###
 
-<!-- 🌑✨ GOTHIC GITHUB STATS ✨🌑 -->
-
 <img align="left" alt="Coding" width="200" src="img/_.gif" style="margin-right: 20px;" >
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=XhuaSpy&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-<p align="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XhuaSpy&theme=dark&hide_border=true" />
 </p>
 
 <p>
