@@ -1,38 +1,62 @@
-<h1 align="left">Hola!</h1>
+<img src="img/as<sf<.jpeg" alt="header" width=100% />
 
-###
+<h1 align="left">☾∘ ⋅  𝔥𝔬𝔩𝔦 𝔪𝔦 𝔫𝔬𝔪𝔟𝔯𝔢 𝔢𝔰 𝔍𝔢𝔰𝔲𝔰 ⋅ ∘☽ </h1>
 
-<p align="left">Mi nombre es Jesús Peraza y soy de Colombia.</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=30&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=1000&lines=𝖀𝖓+𝖆𝖕𝖆𝖘𝖎𝖔𝖓𝖆𝖉𝖔+𝖕𝖗𝖔𝖌𝖗𝖆𝖒𝖆𝖉𝖔𝖗+𝖇𝖆𝖈𝖐𝖊𝖓𝖉+𝖉𝖊+𝕮𝖔𝖑𝖔𝖒𝖇𝖎𝖆...+☠️;𝖘𝖚𝖋𝖗𝖎𝖊𝖓𝖉𝖔+𝖊𝖓+𝖊𝖑+𝖎𝖓𝖋𝖎𝖊𝖗𝖓𝖔+𝖑𝖑𝖆𝖒𝖆𝖉𝖔+𝖀𝖓𝖎𝖛𝖊𝖗𝖘𝖎𝖉𝖆𝖉" alt="Typing SVG" />
+</h3>
+<p>
+  Puro codigo decadente hay en ésta cuenta. Me gusta crear y aprender haciendo, así es como trato de adquirir mis conocimientos tanto de manera autodidacta como por la universidad. Soy programador backend pero en especial me gusta describirme como un diseñador de soluciones. Estoy aprendiendo sobre java con su framework spring, al mismo tiempo estoy trabajando en go en resolución de problema de mas bajo nivel (o lo que el lenguaje permite en éste entorno).<br>Estoy abierto a nuevas oportinidades de aprendisaje y de colaboración con todo tipo de proyectos.
+</p>
 
-###
+<img src="img/_ (1).jpeg" alt="Angel oscuro" style="max-width: 40%; height: auto;" align="right" />
 
-<h2 align="left">Acerca de mi</h2>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XhuaSpy&label=Profile%20views&color=0e75b6&style=flat" alt="XhuaSpy" /> </p>
 
-<p align="left"> Me gusta aprender continuamente<br> Me encanta la programación y la tecnología <3</p>
+<p align="left">
+  <a href="https://co.linkedin.com/in/jes%C3%BAs-d-peraza-r-097404317?trk=people-guest_people_search-card">
+    <img src="https://img.shields.io/badge/LinkedIn-Jesús%20Peraza-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Jesús Peraza"/>
+  </a>
+</p>
 
-###
 
-<h2 align="left">Mi principales tecnologías son:</h2>
+<p align="left">
+  ✦ Programador de backend con alma oscura y una monster en la mano.<br>
+  ✦ Adicto al conocimiento, Linux, el metal y la libertad del software.<br>
+  ✦ Lucho diariamente contra los demonios de la universidad pública.<br>
+  ✦ En mis tiempos libres: toco guitarra o leo documentación para dormir mejor.<br>
+</p>
 
-###
+<h3 align="left">𝔐𝔦𝔰 𝔭𝔯𝔦𝔫𝔠𝔦𝔭𝔞𝔩𝔢𝔰 𝔱𝔢𝔠𝔫𝔬𝔩𝔬𝔤í𝔞𝔰 𝔰𝔬𝔫:</h2>
+༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒༒
+<br>
+<br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
- </div>
+  <img src="https://cdn.simpleicons.org/OpenJdk/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/go/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/spring/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/linux/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/docker/ffffff" height="40" />
+</div>
 
 ###
+
+<!-- 🌑✨ GOTHIC GITHUB STATS ✨🌑 -->
+
+<img align="left" alt="Coding" width="200" src="img/_.gif" style="margin-right: 20px;" >
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=XhuaSpy&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+<p align="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XhuaSpy&theme=dark&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XhuaSpy&theme=dark&hide_border=true&layout=compact" />
+</p>
+
