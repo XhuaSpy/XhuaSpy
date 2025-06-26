@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Me gusta aprender continuamente<br>📚 Me encanta la programación y la tecnología</p>
+<p align="left"> Me gusta aprender continuamente<br> Me encanta la programación y la tecnología <3</p>
 
 ###
 
@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -31,9 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+ </div>
 
 ###
